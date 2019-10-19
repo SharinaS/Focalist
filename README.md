@@ -1,6 +1,6 @@
 # Focalist: A Reminder App
 ## Project Description
-This is a web application that allows users to create scheduled reminder text messages that are texted to the user at the specified date and time. 
+FocaList is a web application that allows users to create scheduled reminder text messages that are texted to the user at the specified date and time. It is currently deployed on Heroku, and is fully functional. [Try it out](https://focalistapp.herokuapp.com) by setting a reminder! 
 
 ![screenshot](assets/app-screen-shot.png)
 
